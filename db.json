@@ -1,27 +1,22 @@
 {
-  "logs": [{
-      "id": 1,
-      "message": "Changed hard drive on workstation 005",
+  "logs": [
+    {
+      "message": "Uppfærði ljósastaur..",
       "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sam Smith"
+      "tech": "John Doe",
+      "date": "2019-10-08T15:00:15.791Z",
+      "id": 1
     },
     {
-      "id": 2,
-      "message": "Workstation 007 not posting",
+      "message": "Vantar nýja peru í staur",
       "attention": true,
-      "date": "03-02-2019",
-      "tech": "John Doe"
-    },
-    {
-      "id": 3,
-      "message": "Changed memory on workstation 050",
-      "attention": false,
-      "date": "03-02-2019",
-      "tech": "Sara Wilson"
+      "tech": "Sam Smith",
+      "date": "2019-10-08T15:00:35.575Z",
+      "id": 2
     }
   ],
-  "techs": [{
+  "techs": [
+    {
       "id": 1,
       "firstName": "John",
       "lastName": "Doe"
