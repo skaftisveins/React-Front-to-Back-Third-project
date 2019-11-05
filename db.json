@@ -8,11 +8,18 @@
       "id": 1
     },
     {
-      "message": "Vantar nýja peru í staur",
+      "id": 2,
+      "message": "Kominn ný pera í staurinn",
+      "attention": false,
+      "tech": "Sara Wilson",
+      "date": "2019-11-05T14:04:28.419Z"
+    },
+    {
+      "id": 3,
+      "message": "Vandamál",
       "attention": true,
       "tech": "Sam Smith",
-      "date": "2019-10-08T15:00:35.575Z",
-      "id": 2
+      "date": "2019-11-05T14:16:30.947Z"
     }
   ],
   "techs": [
